@@ -1,1 +1,9 @@
-package crud_cost_tracker
+package main
+
+func main() {
+
+}
+
+func getId() {
+
+}
